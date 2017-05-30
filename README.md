@@ -1,9 +1,9 @@
-#WeatherInfoDisplay
+# WeatherInfoDisplay
 
 Both Ethernet Shield and Arduino Ethernet are available.  
 (I remember I have made so.)
 
-#Image
+## Image
 
 <a><img src="https://github.com/matzTada/WeatherInfoDisplay/blob/master/image/pic01.jpg" 
 alt="pic01" width=20%></a>
